@@ -1,0 +1,6 @@
+SCENARIO,DT_USERNAME,DT_PASSWORD,DT_ERROR
+Valid,Admin,admin123,
+Invalid,asdad,asdasd,Invalid credentials
+NoPassword,Admin,,Password cannot be empty
+NoUsername,,admin123,Username cannot be empty
+NoValues,,,Username cannot be empty

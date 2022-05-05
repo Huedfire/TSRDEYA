@@ -1,0 +1,3 @@
+SCENARIO,DT_USERNAME,DT_PASSWORD
+Valid,Admin,admin123
+Invalid,asdad,asdasd
